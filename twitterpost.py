@@ -3,7 +3,6 @@ import os
 import random
 import sys
 import markovify
-sys.path.insert(0, '/home/jack/Desktop/pycode/vpython2')
 import twython
 from twython import Twython
 import random
